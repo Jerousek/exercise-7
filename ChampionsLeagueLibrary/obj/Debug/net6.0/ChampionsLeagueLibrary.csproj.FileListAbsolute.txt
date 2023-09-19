@@ -1,0 +1,12 @@
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\bin\Debug\net6.0\ChampionsLeagueLibrary.deps.json
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\bin\Debug\net6.0\ChampionsLeagueLibrary.dll
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\bin\Debug\net6.0\ChampionsLeagueLibrary.pdb
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\obj\Debug\net6.0\ChampionsLeagueLibrary.csproj.AssemblyReference.cache
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\obj\Debug\net6.0\ChampionsLeagueLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\obj\Debug\net6.0\ChampionsLeagueLibrary.AssemblyInfoInputs.cache
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\obj\Debug\net6.0\ChampionsLeagueLibrary.AssemblyInfo.cs
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\obj\Debug\net6.0\ChampionsLeagueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\obj\Debug\net6.0\ChampionsLeagueLibrary.dll
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\obj\Debug\net6.0\refint\ChampionsLeagueLibrary.dll
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\obj\Debug\net6.0\ChampionsLeagueLibrary.pdb
+C:\Users\Jero\Desktop\NewFolder (1)\ChampionsLeagueLibrary\obj\Debug\net6.0\ref\ChampionsLeagueLibrary.dll
